@@ -45,15 +45,11 @@ If necessary, floor transitions are handled dynamically.
 
 ✨ Features
 
-📍 Select starting and destination locations
-
-🗺 Multi-floor navigation support
-
-🔄 Automatic shortest-path computation
-
-📊 Node and path visualization
-
-📱 Clean and responsive interface
+  - Select starting and destination locations
+  - Multi-floor navigation support
+  - Automatic shortest-path computation
+  - Node and path visualization
+  - Clean and responsive interface
 
 📂 Project Structure
 /src
@@ -62,7 +58,6 @@ If necessary, floor transitions are handled dynamically.
   /navigation
   /data
   /utils
-
 
 screens – Floor layouts and navigation screens
 
@@ -75,17 +70,18 @@ data – Location nodes and connections
 utils – Pathfinding logic and helper functions
 
 ⚙ Installation Guide
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/kadima.git
 
-2️⃣ Navigate to Project Folder
-cd kadima
+  1. Clone the Repository
+  git clone https://github.com/your-username/kadima.git
 
-3️⃣ Install Dependencies
-npm install
+  2. Navigate to Project Folder
+  cd kadima
 
-4️⃣ Start the Development Server
-npx expo start
+  3. Install Dependencies
+  npm install
+
+  4. Start the Development Server
+  npx expo start
 
 🔐 Privacy & Data
 
@@ -97,4 +93,5 @@ For more information, refer to the Privacy Policy linked in the repository.
 📊 Academic Context
 
 This application was developed as part of a Computer Science undergraduate thesis project. It focuses on applying graph theory and shortest-path algorithms in a practical campus navigation system.
+
 
