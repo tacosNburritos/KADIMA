@@ -1,5 +1,6 @@
 📘 KADIMA
 Smart Campus Navigation and Virtual Tour Application
+
 📌 Overview
 
 KADIMA is a mobile application developed as a thesis project that provides smart campus navigation through shortest-path routing. The system allows users to select a starting location and destination within the campus and computes the most efficient path using graph-based algorithms.
@@ -96,3 +97,4 @@ For more information, refer to the Privacy Policy linked in the repository.
 📊 Academic Context
 
 This application was developed as part of a Computer Science undergraduate thesis project. It focuses on applying graph theory and shortest-path algorithms in a practical campus navigation system.
+
